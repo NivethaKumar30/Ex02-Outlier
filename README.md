@@ -119,6 +119,14 @@ sns.boxplot(x="weight",data=df4)
 OUTPUT :
 (1)(2) Examine price_per_sqft column and use IQR to remove outliers and create new dataframe.
 
+![ds 215](https://user-images.githubusercontent.com/119559844/228053739-a0b3740d-cf62-4584-b880-101799524048.png)
+
+![ds 216](https://user-images.githubusercontent.com/119559844/228055339-cea1e31d-ae83-4ae6-8e62-f5ff7639f3bb.png)
+
+![image](https://user-images.githubusercontent.com/119559844/228056070-8374f4b0-2d84-4b12-b0ff-7c4f84fc2ffa.png)
+
+
+
 
 
 (3) Examine price_per_sqft column and use zscore of 3 to remove outliers.
