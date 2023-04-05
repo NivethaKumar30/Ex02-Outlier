@@ -143,6 +143,24 @@ OUTPUT :
 
 (4) For the data set height_weight.csv detect weight and height outliers using IQR method
 
+![1](https://user-images.githubusercontent.com/119559844/229998819-9c755c15-ff89-4ec9-a43d-5e3c43860adf.png)
+
+![head](https://user-images.githubusercontent.com/119559844/229998907-dd9160d2-da48-47c7-9adf-49a3ddc22ab3.png)
+
+![describe 1 ](https://user-images.githubusercontent.com/119559844/229999685-c87e7150-3cd6-434c-bf36-7e82b90b5a4b.png)
+
+![sns 1](https://user-images.githubusercontent.com/119559844/230000156-26585ba5-8d8a-443d-b670-eae135f0f8bd.png)
+
+![df4](https://user-images.githubusercontent.com/119559844/230000196-3696ac4b-9860-4659-a4ce-d143c9780986.png)
+
+![df3](https://user-images.githubusercontent.com/119559844/230000996-9a132904-3c96-4f2e-81d1-bb0bd6fc4352.png)
+
+![df5](https://user-images.githubusercontent.com/119559844/230001031-700d8699-d68e-43aa-9357-073ae878b55e.png)
+
+![height](https://user-images.githubusercontent.com/119559844/230001075-b4cb6ba8-c660-439b-a13c-a44a10b5d241.png)
+
+
+
 RESULT :
 
 The given datasets are read and outliers are detected and are removed using IQR and z-score methods
