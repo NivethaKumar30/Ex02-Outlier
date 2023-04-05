@@ -125,11 +125,20 @@ OUTPUT :
 
 ![image](https://user-images.githubusercontent.com/119559844/228056070-8374f4b0-2d84-4b12-b0ff-7c4f84fc2ffa.png)
 
+![df describe ](https://user-images.githubusercontent.com/119559844/229995816-ab529654-edab-4699-b1a4-c6c59d470c59.png)
 
+![sna](https://user-images.githubusercontent.com/119559844/229995907-bdaeeac3-4014-4ee7-b870-341aa42e35f5.png)
 
+![iqr](https://user-images.githubusercontent.com/119559844/229996483-d4504436-7025-4468-b012-b496af8934e0.png)
+
+![shape](https://user-images.githubusercontent.com/119559844/229996530-ffd50beb-b2de-47e3-9161-3b698cd6a49b.png)
 
 
 (3) Examine price_per_sqft column and use zscore of 3 to remove outliers.
+
+![scipy](https://user-images.githubusercontent.com/119559844/229996998-be5bb2c1-7220-4802-a912-43da389113db.png)
+
+![boxplot](https://user-images.githubusercontent.com/119559844/229997080-4fc5fe66-5378-43fa-bdfe-3d0118773fb6.png)
 
 
 (4) For the data set height_weight.csv detect weight and height outliers using IQR method
