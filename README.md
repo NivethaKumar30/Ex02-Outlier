@@ -33,7 +33,7 @@ Remove the outliers
 STEP 5
 Plot the datas using Box Plot
 
-Program:
+CODE:
 (1) & (2) Examine price_per_sqft column and use IQR to remove outliers and create new dataframe
 
 ```
